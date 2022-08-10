@@ -6,7 +6,8 @@
 5. [Licensing, Authors, and Acknowledgments](#licensing)
 
 ## Instalation <a name="installation"></a>
-Installing de Anaconda distribution of Python the code should run with no issues using Python version 3.*.
+Installing de Anaconda distribution of Python the code should run with no issues using Python version 3.*.  
+Seaborn library is also used.
 ## Project Motivation <a name="motivation"></a>
 
 For this project, I used Stack Overflow data from 2022 undestand the next questions:
@@ -16,8 +17,9 @@ For this project, I used Stack Overflow data from 2022 undestand the next questi
 
 ## File Descriptions <a name="files"></a>
 There is 1 notebook avalible here to showcase work related to the above questions.
+There are 2 csv files. The data set itself, and a schema csv file explaining the structure of the main data set.
 
 ## Results <a name="results"></a>
 The main findins of the code can be found at the post avaible [here](https://www.google.es).
 ## Licensing, Authors, and Acknowledgments <a name="licensing"></a>
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://insights.stackoverflow.com/survey).  Otherwise, feel free to use the code here as you would like.
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://medium.com/@pingwie/is-it-so-good-to-be-a-developer-today-cc8ee677a046).  Otherwise, feel free to use the code here as you would like.
